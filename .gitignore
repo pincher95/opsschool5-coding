@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+age_to_bucket_parser.py
+hw.json
